@@ -1,0 +1,8 @@
+site_name: "factory-generated-go-api"
+site_description: "factory-generated-go-api"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "factory-generated-go-api"
+  description: "factory-generated-go-api"
+  annotations:
+    github.com/project-slug: KL-Engineering/factory-generated-go-api
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "james.wilson@kidsloop.live"

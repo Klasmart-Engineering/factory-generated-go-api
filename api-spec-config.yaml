@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: "factory-generated-go-api"
+  description: "factory-generated-go-api"
+spec:
+  type: openapi
+  lifecycle: production
+  owner: "james.wilson@kidsloop.live"
+  definition:
+    $text: https://github.com/factory-generated-go-api/blob/master/swagger.yaml
