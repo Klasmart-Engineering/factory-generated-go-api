@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: "james.wilson@kidsloop.live"
   definition:
-    $text: https://github.com/factory-generated-go-api/blob/master/swagger.yaml
+    $text: https://github.com/KL-Engineering/factory-generated-go-api/blob/master/swagger.yaml
